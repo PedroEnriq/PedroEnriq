@@ -7,10 +7,14 @@
   <a href="https://github.com/PedroEnriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEnriq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEnriq&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  </a>
+ </div>
 
 ##
-<div style="display: inline_block"><br>
+- 💻 Linguagens e Engines que eu utilizo
+
+
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />

@@ -24,3 +24,6 @@
   <a href = "mailto:penrique_santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://pedro-enrique.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 </div>
+
+##
+![snake gif](https://github.com/PedroEnriq/PedroEnriq/blob/output/github-contribution-grid-snake.svg)
